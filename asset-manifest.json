@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dictionary-github-page/static/css/main.c038308c.chunk.css",
+    "main.js": "/dictionary-github-page/static/js/main.911555b8.chunk.js",
+    "main.js.map": "/dictionary-github-page/static/js/main.911555b8.chunk.js.map",
+    "runtime-main.js": "/dictionary-github-page/static/js/runtime-main.2171d6bc.js",
+    "runtime-main.js.map": "/dictionary-github-page/static/js/runtime-main.2171d6bc.js.map",
+    "static/js/2.9f3aa19e.chunk.js": "/dictionary-github-page/static/js/2.9f3aa19e.chunk.js",
+    "static/js/2.9f3aa19e.chunk.js.map": "/dictionary-github-page/static/js/2.9f3aa19e.chunk.js.map",
+    "static/js/3.874235b1.chunk.js": "/dictionary-github-page/static/js/3.874235b1.chunk.js",
+    "static/js/3.874235b1.chunk.js.map": "/dictionary-github-page/static/js/3.874235b1.chunk.js.map",
+    "index.html": "/dictionary-github-page/index.html",
+    "static/css/main.c038308c.chunk.css.map": "/dictionary-github-page/static/css/main.c038308c.chunk.css.map",
+    "static/js/2.9f3aa19e.chunk.js.LICENSE.txt": "/dictionary-github-page/static/js/2.9f3aa19e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2171d6bc.js",
+    "static/js/2.9f3aa19e.chunk.js",
+    "static/css/main.c038308c.chunk.css",
+    "static/js/main.911555b8.chunk.js"
+  ]
+}
